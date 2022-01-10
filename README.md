@@ -1,5 +1,13 @@
-Wallaper School 
-Applicazione scritta in powershell 
+Schoolwallaper o Wallpaper School
+Programmato in : [🇮🇹]
+
+Linguaggio : [Powershell]
+
+❌ [ Virus ]
+
+❌ [ Payload ]
+
+✔️ Sicuro 100%
 
 DOWNLOAD
 
@@ -12,7 +20,7 @@ UTILIZZO
 Molto semplice da usare un semplice click con tasto sinistro 
 volendo e' possibile farlo partire con le autorizzazioni da amministratore
 facendo click con il tasto destro e' successivamente piggiare sulla scritta 
-'Esegui come amministratore'
+`Esegui come amministratore`
 
 Facile e intuitivo 
 il programma si mostra come descritto nella riga precedentemente (INTUTIVO) perche' appena avviato 
@@ -30,7 +38,7 @@ Il codice scritto in powershell e' stato convertito in eseguibile per prevenire 
 copie del codice sorgente.
 L' Applicazione appartiene alla VictorMediaComunication 
 Tutti i diritti Riservati © 2022 sotto la licenza a mio imposto
-come 'Freeware Source Code Closed'
+come `Freeware Source Code Closed`
 E' permesso la divulgazione del programma in tutte le modalita'
 compreso video su Youtube ad esempio, a regola che vengono destinati i miei crediti o nella descrizione,
 nominato o presente nel titolo;
