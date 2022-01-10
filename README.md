@@ -11,7 +11,7 @@ Linguaggio : [Powershell]
 
 DOWNLOAD
 
-Ci sono 2 modi per installarla
+Ci sono 2 modi per installarlo
 1.  Collegandosi al sito victormediacomunication-riserva.000webhostapp.com
 2.  Scaricando lo zip tramite il pulsante Code e successivamente il tasto salva in zip
 
