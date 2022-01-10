@@ -20,6 +20,7 @@ UTILIZZO
 Molto semplice da usare un semplice click con tasto sinistro 
 volendo e' possibile farlo partire con le autorizzazioni da amministratore
 facendo click con il tasto destro e' successivamente piggiare sulla scritta 
+
 `Esegui come amministratore`
 
 Facile e intuitivo 
