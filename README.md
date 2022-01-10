@@ -37,6 +37,7 @@ SOURCE CODE
 
 Il codice scritto in powershell e' stato convertito in eseguibile per prevenire eventuali
 copie del codice sorgente.
+
 L' Applicazione appartiene alla VictorMediaComunication 
 Tutti i diritti Riservati © 2022 sotto la licenza a mio imposto
 come `Freeware Source Code Closed`
@@ -48,7 +49,8 @@ VictorMediaComunication
 Destino questa applicazione 1 versione 
 Sotto la licenza libera condivisione libero utilizzo gratuito senza codice sorgente aperto
 
-Progetto realizzato per le scuole seppur e' una DEMO 
-ci saranno eventuali aggiornamenti pubblicati e rilasciati su questa piattaforma.
+Progetto realizzato per le scuole seppur e' una DEMO,
+ci saranno eventuali aggiornamenti,
+pubblicati e rilasciati su questa piattaforma.
 Progetto seppur molto semplice ci tengo agli utilizzatori di rispettare la presenza dei miei crediti 
 nell'eventuale divulgazione di questo programma
